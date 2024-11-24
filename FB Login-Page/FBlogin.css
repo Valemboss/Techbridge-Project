@@ -1,0 +1,77 @@
+.box {
+    width: 8cm;
+    height: 6cm;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    left: 45pc;
+    top: 9pc;
+    border-radius: 5px;
+}
+.backg {
+    background-color: rgba(187, 187, 209, 0.781);
+}
+#email {
+    width: 19pc;
+    display: flex;
+    padding: 5px;
+    border: 2px solid rgb(224, 214, 214);
+    border-radius: 5px;
+    
+}
+#password {
+    width: 19pc;
+    padding: 5px;
+    border: 2px solid rgb(224, 214, 214);
+    border-radius: 5px;
+}
+.Log-in {
+    width: 18.6pc;
+    background-color: rgb(43, 78, 235);
+    text-align: center;
+    color: white;
+    padding: 4px;
+    justify-content: center;
+    border-radius: 2px;
+    text-decoration: none;
+
+
+}
+.fpass {
+    color: blue;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+   
+}
+.cna {
+    background: rgb(13, 214, 23);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin: 1rem;
+    border-radius: 2px;
+    color: white;
+    
+}
+.facebok {
+    position: relative;
+    left: 25pc;
+    bottom: 5pc;
+    font-size: 18px;
+    
+}
+
+h1 {
+    color: rgb(7, 7, 231);  
+    font-size: 1.3cm; 
+}
+.last {
+    
+    position: relative;
+    left: 45pc;
+    
+}
